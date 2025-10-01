@@ -30,6 +30,41 @@
   align-items: center;
 }
 
+.button-contact {
+  text-decoration: none;
+  color: #3c467b;
+  background-color: #ccc;
+  padding: 10px 20px;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+
+.button-contact:hover {
+  text-decoration: none;
+  color: #ccc;
+  background-color: cadetblue;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: overline;
+}
+
+.button-resume {
+  text-decoration: none;
+  color: #3c467b;
+  background-color: #ccc;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.button-resume:hover {
+  text-decoration: none;
+  color: #333;
+  background-color: skyblue;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: overline;
+}
+
 .text-container {
   white-space: normal;
   overflow-wrap: break-word;
