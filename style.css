@@ -76,3 +76,29 @@
   font-family: "Bitcount Prop Single Ink", system-ui;
   font-size: 24px;
 }
+
+.embed-map-fixed {
+  position: relative;
+  text-align: right;
+  width: 100%;
+  max-width: 600px;
+  height: 400px;
+}
+
+.embed-map-container {
+  overflow: hidden;
+  background: none !important;
+  width: 100%;
+  height: 100%;
+}
+
+.embed-map-frame {
+  width: 100% !important;
+  height: 100% !important;
+  border: 0;
+}
+
+.contact-form-wrapper {
+  border-left: 1px solid #ccc;
+  padding-left: 20px;
+}
